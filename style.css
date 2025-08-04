@@ -46,3 +46,10 @@
     background: linear-gradient(to right, #09e2ff, #00ff11);
     width: 80px;
 }
+/* 
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Camille061/hotpital.git
+git push -u origin main */
