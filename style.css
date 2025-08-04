@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-bar {
+    background-color: #07553B;
+}
+
+.text-head {
+    text-align: center;
+    color: aliceblue;
+}
+
+.formula1 {
+    margin: 0 1rem;
+ 
+    background-color: aliceblue;
+    
+}
+
+.formula2 {
+    margin: 0 1rem;
+    
+}
+
+.formula2 {
+  
+    background-color: aliceblue;
+
+}
+
+.list {
+    padding: 15px;
+}
+
+.background {
+    background-color: #ffffff;
+}
+
+.method {
+    padding: 15px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(to right, #09e2ff, #00ff11);
+    width: 80px;
+}
