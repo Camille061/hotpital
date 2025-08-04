@@ -10,13 +10,13 @@
 
 .text-head {
     text-align: center;
-    color: aliceblue;
+    color: rgb(253, 253, 253);
 }
 
 .formula1 {
     margin: 0 1rem;
  
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     
 }
 
@@ -27,7 +27,7 @@
 
 .formula2 {
   
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 
 }
 
